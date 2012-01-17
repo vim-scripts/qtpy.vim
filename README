@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3888
+
+A simple way of running python unit tests from within VIM based on the cursor location.
+
+Useful for receiving immediate feedback as you write tests, despite what test runner or framework your project uses to run its tests.
+
+qtpy.vim on Github: https://github.com/ameade/qtpy-vim
